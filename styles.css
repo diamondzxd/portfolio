@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+}
+
+.container {
+    padding: 16px;
+}
+
+.intro {
+    margin: -16px;
+    padding: 16px;
+    background-color: rgb(33, 33, 33);
+    color: white;
+    text-align: center;
+}
+
+.intro img {
+    border-radius: 16px;
+    height: 350px;
+}
